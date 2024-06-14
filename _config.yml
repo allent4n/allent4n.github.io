@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Allen TAN"
+title                    : "TAN Zusheng, Allen"
 title_separator          : "-"
 name                     : &name "TAN Zusheng, Allen"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Allen TAN"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Hong Kong"
-  employer         : "[Lingnan University](https://www.ln.edu.hk/)"
+  employer         : ["Lingnan University"](https://www.ln.edu.hk/)
   uri              : # URL
   email            : "allentan@ln.hk" 
 
