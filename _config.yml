@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Allen TAN"
 title_separator          : "-"
-name                     : &name "Allen TAN"
+name                     : &name "TAN Zusheng, Allen"
 description              : &description "personal description"
 url                      : https://allent4n.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
-  employer         : "Lingnan University"
+  employer         : "[Lingnan University](https://www.ln.edu.hk/)"
   uri              : # URL
   email            : "allentan@ln.hk" 
 
