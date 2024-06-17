@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 * An ɛ-constrained multiobjective differential evolution with adaptive gradient-based repair method for real-world constrained optimization problems \
-Jing-Yu Ji, **Zusheng Tan**\, Sanyou Zeng\, Man-Leung Wong\
+Jing-Yu Ji\, **Zusheng Tan**\, Sanyou Zeng\, Man-Leung Wong\
 Applied Soft Computing [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494623012206)
 
 * A Surrogate-Assisted Evolutionary Algorithm for Seeking Multiple Solutions of Expensive Multimodal Optimization Problems \
-Jing-Yu Ji, **Zusheng Tan**\, Sanyou Zeng\, Eric W. K. See-To\, Man-Leung Wong\
+Jing-Yu Ji\, **Zusheng Tan**\, Sanyou Zeng\, Eric W. K. See-To\, Man-Leung Wong\
 IEEE Transactions on Emerging Topics in Computational Intelligence [paper](https://ieeexplore.ieee.org/abstract/document/10218982)
 
 * Homophily Graph Networks for Trustworthiness Prediction on Airbnb \
