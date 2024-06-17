@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
-
 ### An ɛ-constrained multiobjective differential evolution with adaptive gradient-based repair method for real-world constrained optimization problems
 *Jing-Yu Ji, **Zusheng Tan**, Sanyou Zeng, Man-Leung Wong*  
 *Applied Soft Computing*  
