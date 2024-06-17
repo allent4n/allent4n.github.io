@@ -20,6 +20,6 @@ author_profile: true
 ---
 
 ### Homophily Graph Networks for Trustworthiness Prediction on Airbnb
-***Zusheng Tan**, Billy Chiu, Eric W. K. See-To, Chang Liu*
+***Zusheng Tan**, Billy Chiu, Eric W. K. See-To, Chang Liu*  
 *The annual Pacific Asia Conference on Information Systems (PACIS) 2024*  
 [Read Paper](https://aisel.aisnet.org/pacis2024/track16_shareecon/track16_shareecon/4/)
