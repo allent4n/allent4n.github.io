@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Privacy-preserving federated learning for proactive maintenance of IoT-empowered multi-location smart city facilities
+### [Privacy-preserving federated learning for proactive maintenance of IoT-empowered multi-location smart city facilities](https://www.sciencedirect.com/science/article/abs/pii/S1084804524001735?via%3Dihub)
 ***Zu-Sheng Tan**, Eric W.K. See-To, Kwan-Yeung Lee, Hong-Ning Dai, Man-Leung Wong*  
 *Journal of Network and Computer Applications*  
 [Read Paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804524001735?via%3Dihub)
