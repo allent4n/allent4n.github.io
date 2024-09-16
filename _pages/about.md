@@ -15,4 +15,4 @@ Throughout my academic journey, I have been driven by a desire to understand and
 
 For more info
 ------
-More info about my project can be found on my [GitHub](https://github.com/allent4n). Some of my published papers are shown [here](https://scholar.google.com/citations?user=stTO7pwAAAAJ&hl=en).
+More info about my project can be found on my [GitHub](https://github.com/allent4n). My publications are shown [here](https://scholar.google.com/citations?user=stTO7pwAAAAJ&hl=en).
