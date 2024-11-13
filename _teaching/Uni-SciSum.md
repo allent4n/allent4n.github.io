@@ -1,8 +1,8 @@
 ---
 title: "Uni-SciSum: Enhancing Large Language Models for Scientific Multimodal Summarization with Multimodal Output"
-collection: teaching
+collection: projects
 type: "---"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /projects/Uni-SciSum
 venue: ""
 date: 2025-01-01
 location: ""
