@@ -4,7 +4,6 @@ collection: projects
 type: "---"
 permalink: /projects/Uni-SciSum
 venue: ""
-date: 2025-01-01
 location: ""
 ---
 
