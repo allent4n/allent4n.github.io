@@ -7,10 +7,14 @@ venue: ""
 location: ""
 ---
 
-<div align="center">
-[![Code](https://img.shields.io/website?url=https://ecnu-sea.github.io/)]([https://ecnu-sea.github.io/](https://github.com/allent4n/Uni-SciSum))
-[![Paper](https://img.shields.io/badge/paper--blue)]()
+<div style="text-align: center;">
+
+[![Code](https://img.shields.io/website?url=https://ecnu-sea.github.io/)](https://github.com/allent4n/Uni-SciSum)  
+[![Paper](https://img.shields.io/badge/paper--blue)](https://coling2025.org/)
+
 </div>
+
+---
 
 This paper is accepted in [COLING-2025](https://coling2025.org/)
 
