@@ -9,8 +9,8 @@ location: ""
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/code-GitHub-blue)](https://github.com/allent4n/Uni-SciSum)
-[![Paper](https://img.shields.io/badge/paper--blue)](https://coling2025.org/)
+[![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/allent4n/Uni-SciSum)
+[![Paper](https://img.shields.io/badge/Paper--blue)](https://coling2025.org/)
 
 </div>
 
