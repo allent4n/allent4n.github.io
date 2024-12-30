@@ -9,7 +9,7 @@ location: ""
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/code--blue)](https://github.com/allent4n/Uni-SciSum)
+[![Code](https://img.shields.io/badge/code--GitHub)](https://github.com/allent4n/Uni-SciSum)
 [![Paper](https://img.shields.io/badge/paper--blue)](https://coling2025.org/)
 
 </div>
