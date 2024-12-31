@@ -17,5 +17,3 @@ Uni-SciSum is a novel multimodal scientific summarisation model for multimodal o
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" height="40" style="vertical-align:middle; margin-right:10px;">
   Visit the GitHub Repository
 </a>
-
-<img width="1342" alt="framework_v3" src="https://github.com/user-attachments/assets/1fd2405f-2068-4679-abe9-3e2f5205cb6b" />
