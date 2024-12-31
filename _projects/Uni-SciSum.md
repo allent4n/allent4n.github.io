@@ -14,8 +14,6 @@ location: ""
   
 </div>
 
----
-
 
 This paper is accepted in [COLING-2025](https://coling2025.org/)
 
