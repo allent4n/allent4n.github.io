@@ -8,7 +8,7 @@ location: ""
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://github.com/your-repo-link" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/allent4n/Uni-SciSum" target="_blank" style="text-decoration: none;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" height="40" style="vertical-align: middle; margin-right: 10px;">
     <span style="font-size: 18px; color: #000;">Visit the GitHub Repository</span>
   </a>
