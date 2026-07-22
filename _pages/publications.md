@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 1. Localize-then-summarize: Enhancing scientific multimodal summarization with facet-aware cross-modal memory
+
 **Tan, Z.**, Ji, J. Y., Yu, W., Ng, N. F., Yang, F., Tang, J., ... & Chiu, B.  
 *Information Processing & Management*  
 [View](https://www.sciencedirect.com/science/article/pii/S030645732600378X)
