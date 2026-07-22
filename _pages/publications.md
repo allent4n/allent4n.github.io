@@ -30,7 +30,7 @@ author_profile: true
 ---
 
 ### [MFG-SciSum: A multimodal faceted graph framework for scientific summarization](https://www.sciencedirect.com/science/article/abs/pii/S0020025525009879)  
-*Yu, W., **Tan, Z.**, Yang, F., Li, J., Gao, S., Lam, W., ... & Chiu, B.*  
+*Yu, W., **Tan, Z.&dagger;**, Yang, F., Li, J., Gao, S., Lam, W., ... & Chiu, B.*  
 *Information Sciences*  
 
 ---
