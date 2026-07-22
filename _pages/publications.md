@@ -43,13 +43,13 @@ author_profile: true
 
 
 ### [Scientific poster generation: A new dataset and approach](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001670)  
-*Zhong, X., **Tan, Z.**, Li, J., Gao, S., Ma, J., Feng, S., & Chiu, Billy.*  
+*Zhong, X., **Tan, Z.&dagger;**, Li, J., Gao, S., Ma, J., Feng, S., & Chiu, Billy.*  
 *Pattern Recognition*  
 
 ---
 
 ### [SMSMO: Learning to generate multimodal summary for scientific papers](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015429)  
-*Zhong, X., **Tan, Z.**, Gao, S., Li, J., Shen, J., Ji, J., ... & Chiu, B.*  
+*Zhong, X., **Tan, Z.&dagger;**, Gao, S., Li, J., Shen, J., Ji, J., ... & Chiu, B.*  
 *Knowledge-Based Systems*  
 
 ---
