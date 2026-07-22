@@ -30,7 +30,7 @@ author_profile: true
 ---
 
 ### [MFG-SciSum: A multimodal faceted graph framework for scientific summarization](https://www.sciencedirect.com/science/article/abs/pii/S0020025525009879)  
-*Yu, W., **Tan, Z.&dagger;**, Yang, F., Li, J., Gao, S., Lam, W., ... & Chiu, B.*  
+*Yu, W.&dagger;, **Tan, Z.&dagger;**, Yang, F., Li, J., Gao, S., Lam, W., ... & Chiu, B.*  
 *Information Sciences*  
 
 ---
@@ -43,13 +43,13 @@ author_profile: true
 
 
 ### [Scientific poster generation: A new dataset and approach](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001670)  
-*Zhong, X., **Tan, Z.&dagger;**, Li, J., Gao, S., Ma, J., Feng, S., & Chiu, Billy.*  
+*Zhong, X.&dagger;, **Tan, Z.&dagger;**, Li, J., Gao, S., Ma, J., Feng, S., & Chiu, Billy.*  
 *Pattern Recognition*  
 
 ---
 
 ### [SMSMO: Learning to generate multimodal summary for scientific papers](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015429)  
-*Zhong, X., **Tan, Z.&dagger;**, Gao, S., Li, J., Shen, J., Ji, J., ... & Chiu, B.*  
+*Zhong, X.&dagger;, **Tan, Z.&dagger;**, Gao, S., Li, J., Shen, J., Ji, J., ... & Chiu, B.*  
 *Knowledge-Based Systems*  
 
 ---
