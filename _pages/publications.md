@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-### [Localize-then-summarize: Enhancing scientific multimodal summarization with facet-aware cross-modal memory](https://www.sciencedirect.com/science/article/pii/S030645732600378X)  
-***Tan, Z.,**, Ji, J. Y., Yu, W., Ng, N. F., Yang, F., Tang, J., ... & Chiu, B*  
-*Information Processing & Management*  
+**1. Localize-then-summarize: Enhancing scientific multimodal summarization with facet-aware cross-modal memory**  
+**Authors**: **xx**, xx  
+**Journal**: *Information Processing & Management*  
+**Link**: [View on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S030645732600378X)
 
 ---
 
