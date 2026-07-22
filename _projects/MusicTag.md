@@ -7,8 +7,6 @@ venue: ""
 location: ""
 ---
 
-*Group Project*
-
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="https://github.com/allent4n/MusicTag" target="_blank" style="text-decoration: none;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" height="40" style="vertical-align: middle; margin-right: 10px;">
