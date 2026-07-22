@@ -55,23 +55,35 @@ author_profile: true
 ---
 
 ### [An ɛ-constrained multiobjective differential evolution with adaptive gradient-based repair method for real-world constrained optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S1568494623012206)  
-*Jing-Yu Ji, **Zusheng Tan**, Sanyou Zeng, Man-Leung Wong*  
+*Ji, J. Y., **Tan, Z.**, Zeng, S., & Wong, M. L.*  
 *Applied Soft Computing*  
 
 ---
 
 ### [A Surrogate-Assisted Evolutionary Algorithm for Seeking Multiple Solutions of Expensive Multimodal Optimization Problems](https://ieeexplore.ieee.org/abstract/document/10218982)  
-*Jing-Yu Ji, **Zusheng Tan**, Sanyou Zeng, Eric W. K. See-To, Man-Leung Wong*  
+*Ji, J. Y., **Tan, Z.**, Zeng, S., See-To, E. W., & Wong, M. L.*  
 *IEEE Transactions on Emerging Topics in Computational Intelligence*  
 
 ---
 
+### [LiteFL: A Lightweight Privacy-Preserving Federated Learning Framework for Non-IID Distributed Wearable IoT Devices](https://ieeexplore.ieee.org/abstract/document/11424106)  
+*Yang, F., Chiu, B., Ji, J. Y., Yu, W., Tang, J., & **Tan, Z.\****  
+*2025 International Conference on Engineering and Emerging Technologies (ICEET)*  
+
+---
+
+### [Multimodal paper summarization with hierarchical fusion](https://ieeexplore.ieee.org/abstract/document/10913899)  
+***Tan, Z.**, Zhong, X., & Chiu, B.*  
+*2024 International Conference on Engineering and Emerging Technologies (ICEET)*  
+
+---
+
 ### [Homophily Graph Networks for Trustworthiness Prediction on Airbnb](https://aisel.aisnet.org/pacis2024/track16_shareecon/track16_shareecon/4/)  
-***Zusheng Tan**, Billy Chiu, Eric W. K. See-To, Chang Liu*  
+***Tan, Z.**, Chiu, B., See-To, E., & Liu, C.*  
 *The annual Pacific Asia Conference on Information Systems (PACIS) 2024*  
 
 ---
 
 ### [Tri-Objective Differential Evolution with Gradient Information Reused for Constrained Optimization](https://ieeexplore.ieee.org/abstract/document/10611991)  
-*Sen Yang, **Zusheng Tan**, Jing-Yu Ji, Haoran Xie, Man Leung Wong, Sam Kwong*  
+*Yang, S., **Tan, Z.**, Ji, J. Y., Xie, H., Wong, M. L., & Kwong, S.*  
 *2024 IEEE Congress on Evolutionary Computation (CEC)*  
