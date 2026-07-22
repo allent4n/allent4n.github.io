@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 ### [Surrogate-Assisted Evolutionary Algorithm for Expensive Optimization with Equality and Inequality Constraints](https://ieeexplore.ieee.org/document/11208642)  
-*Ji, J. Y., Chiu, B., **Tan, Z.***, Niu, B., Liang, L., & Kwong, S.*  
+*Ji, J. Y., Chiu, B., **Tan, Z.**\*, Niu, B., Liang, L., & Kwong, S.*  
 *IEEE Transactions on Evolutionary Computation*  
 
 ---
