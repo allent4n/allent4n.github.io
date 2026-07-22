@@ -19,15 +19,41 @@ author_profile: true
 
 ### [Enhancing large language models for scientific multimodal summarization with multimodal output](https://aclanthology.org/2025.coling-industry.22/)  
 ***Tan, Z.**, Zhong, X., Ji, J. Y., Jiang, W., & Chiu, B.*  
-*IEEE Transactions on Evolutionary Computation*  
+*COLING-2025*  
 
 ---
 
 ### [Privacy-preserving federated learning for proactive maintenance of IoT-empowered multi-location smart city facilities](https://www.sciencedirect.com/science/article/abs/pii/S1084804524001735?via%3Dihub)  
-***Zu-Sheng Tan**, Eric W.K. See-To, Kwan-Yeung Lee, Hong-Ning Dai, Man-Leung Wong*  
+***Tan, Z. S.**, See-To, E. W., Lee, K. Y., Dai, H. N., & Wong, M. L.*  
 *Journal of Network and Computer Applications*  
 
 ---
+
+### [MFG-SciSum: A multimodal faceted graph framework for scientific summarization](https://www.sciencedirect.com/science/article/abs/pii/S0020025525009879)  
+*Yu, W., **Tan, Z.**, Yang, F., Li, J., Gao, S., Lam, W., ... & Chiu, B.*  
+*Information Sciences*  
+
+---
+
+### [Heat Pipe-Constrained IoT Device Layout via Multiobjective Differential Evolution](https://ieeexplore.ieee.org/document/10753349/)  
+*Ji, J. Y., **Tan, Z.**, Wong, M. L., & Zhang, J.*  
+*IEEE Internet of Things Journal*  
+
+---
+
+
+### [Scientific poster generation: A new dataset and approach](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001670)  
+*Zhong, X., **Tan, Z.**, Li, J., Gao, S., Ma, J., Feng, S., & Chiu, Billy.*  
+*Pattern Recognition*  
+
+---
+
+### [SMSMO: Learning to generate multimodal summary for scientific papers](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015429)  
+*Zhong, X., **Tan, Z.**, Gao, S., Li, J., Shen, J., Ji, J., ... & Chiu, B.*  
+*Knowledge-Based Systems*  
+
+---
+
 ### [An ɛ-constrained multiobjective differential evolution with adaptive gradient-based repair method for real-world constrained optimization problems](https://www.sciencedirect.com/science/article/abs/pii/S1568494623012206)  
 *Jing-Yu Ji, **Zusheng Tan**, Sanyou Zeng, Man-Leung Wong*  
 *Applied Soft Computing*  
