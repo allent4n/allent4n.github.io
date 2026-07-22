@@ -7,7 +7,7 @@ venue: ""
 location: ""
 ---
 
-*COLING-2025*
+*Information Processing & Management*
 
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="https://github.com/allent4n/LENS" target="_blank" style="text-decoration: none;">
