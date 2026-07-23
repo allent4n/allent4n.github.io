@@ -43,7 +43,7 @@ author_profile: true
 
 
 ### [Scientific poster generation: A new dataset and approach](https://www.sciencedirect.com/science/article/abs/pii/S0031320325001670)  
-*Zhong, X.<sup>&dagger;</sup>, **Tan, Z.<sup>&dagger;</sup>**, Li, J., Gao, S., Ma, J., Feng, S., & Chiu, Billy.*  
+*Zhong, X.<sup>&dagger;</sup>, **Tan, Z.<sup>&dagger;</sup>**, Li, J., Gao, S., Ma, J., Feng, S., & Chiu, B.*  
 *Pattern Recognition*  
 
 ---
